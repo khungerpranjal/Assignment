@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Filters</string>
+    <string name="error_msg">Something went wrong</string>
+    <string name="success">Success</string>
+</resources>
